@@ -28,6 +28,8 @@ git clone https://github.com/ifanhua/tor.git
 cd tor
 bash tor.sh
 ```
+
+```
 git clone https://github.com/ifanhua/tor.git
 cd tor
 bash tor2.sh
