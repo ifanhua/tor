@@ -24,9 +24,13 @@ Script maintained and updated by Murilo / Impreza Host
 
 Access your server via SSH and run:
 ```
-git clone https://github.com/imprezahost/aapanel-tor-network.git
-cd aapanel-tor-network
+git clone https://github.com/ifanhua/tor.git
+cd tor
 bash tor.sh
+```
+git clone https://github.com/ifanhua/tor.git
+cd tor
+bash tor2.sh
 ```
 After completion, you will see aaPanel login data and generated .onion domain, please keep this information safe.
 
