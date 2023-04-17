@@ -42,6 +42,15 @@ Now you have a complete control panel to manage your Tor server :)
 ```
 sudo apt install git
 ```
+```
+sudo apt-get install python
+sudo apt update
+sudo apt install python3-pip
+pip3 --version
+pip install aliyun-python-sdk-core
+btpip install cryptography==39.0.2
+```
+
 
 For security advice, change aaPanel username, password and port.
 
